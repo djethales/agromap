@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/agromap/public/js/own.js
